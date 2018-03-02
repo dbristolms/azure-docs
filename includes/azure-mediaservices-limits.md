@@ -4,7 +4,7 @@
 | Resource | Default Limit | 
 | --- | --- | 
 | Azure Media Services (AMS) accounts in a single subscription | 25 (fixed) |
-| Media Reserved Units (RUs) per AMS account |25 (S1, S2)<br/>10 (S3) <sup>(1)</sup> | 
+| Media Reserved Units (RUs) per AMS account |25 (S1)<br/>10 (S2, S3) <sup>(1)</sup> | 
 | Jobs per AMS account | 50,000<sup>(2)</sup> |
 | Chained tasks per job | 30 (fixed) |
 | Assets per AMS account | 1,000,000|
