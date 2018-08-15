@@ -88,7 +88,7 @@ Support for explicit/user-supplied channel mapping will be provided in the near 
 | AMR (adaptive multi-rate) |Yes |
 | AES (SMPTE 331M and 302M, AES3-2003) |No |
 | Dolby® E |No |
-| Dolby® Digital (AC3) |No |
+| Dolby® Digital (AC3) |Yes |
 | Dolby® Digital Plus (E-AC3) |No |
 
 ## Output Formats and codecs
